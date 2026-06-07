@@ -1,6 +1,6 @@
 # ms-gamingoverlay Fix
 
-**Languages:** [English](README.md) | [Русский](README-RU.md)
+[На Русском/In Russian](README-RU.md)
 
 ![screenshot](image.png)
 
