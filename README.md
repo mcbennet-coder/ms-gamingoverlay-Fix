@@ -1,5 +1,7 @@
 # ms-gamingoverlay Fix
 
+**Languages:** [English](README.md) | [Русский](README-RU.md)
+
 ![screenshot](image.png)
 
 > A small registry tweak for **Windows 10 LTSC** that silences the annoying `ms-gamingoverlay` search-overlay banner.
